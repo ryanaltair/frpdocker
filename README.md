@@ -23,3 +23,10 @@ change the server ip to you server ip, from 127.0.0.1 to x,x,x,x
 `sudo systemctl enable frpc`
 then 
 `sudo systemctl restart frpc`
+
+note the client user name such as user
+
+when done 
+
+try
+`ssh -oPort=6000 user@x,x,x,x`
