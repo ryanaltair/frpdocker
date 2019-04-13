@@ -30,3 +30,6 @@ when done
 
 try
 `ssh -oPort=6000 user@x,x,x,x`
+
+
+for more try https://github.com/fatedier/frp
